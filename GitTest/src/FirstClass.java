@@ -5,6 +5,7 @@ public class FirstClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("First change");
+		System.out.println("Master change for rebase");
 	}
 
 }
