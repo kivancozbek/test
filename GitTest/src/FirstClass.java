@@ -6,6 +6,8 @@ public class FirstClass {
 		
 		System.out.println("First change");
 		System.out.println("Master change for rebase");
+		System.out.println("Permanent change");
+		
 	}
 
 }
