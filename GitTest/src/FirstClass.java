@@ -8,6 +8,8 @@ public class FirstClass {
 		System.out.println("Master change for rebase");
 		
 		System.out.println("Side comment 1");
+		System.out.println("Side comment 2");
 	}
 
 }
+
