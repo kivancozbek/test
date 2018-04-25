@@ -11,6 +11,7 @@ public class FirstClass {
 
 		System.out.println("Side comment 1");
 		System.out.println("Side comment 2");
+		System.out.println("Master comment 2");
 	}
 
 }
